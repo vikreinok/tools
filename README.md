@@ -1,2 +1,2 @@
 # tools
-Useful programs and scripts
+Useful executables and scripts
